@@ -20,17 +20,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "repositories" : [
-        {
-          "name" : "ivygithub/PHPThumb",
-          "type": "vcs",
-          "url": "https://github.com/ivygithub/PHPThumb.git"
-        }
-    ],
     "require": {
         "php": ">=5.6",
         "ext-gd": "*",
-        "masterexploder/PHPThumb": "dev-ivyfix",
         "zendframework/zend-di": "2.*"
     },
     "suggest": {
