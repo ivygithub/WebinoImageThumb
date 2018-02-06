@@ -24,7 +24,7 @@
     "require": {
         "php": ">=5.6",
         "ext-gd": "*",
-        "masterexploder/PHPThumb": "2.*",
+        "ivygithub/PHPThumb": "*",
         "zendframework/zend-di": "2.*"
     },
     "suggest": {
