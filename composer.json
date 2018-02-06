@@ -21,6 +21,11 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
+    {
+      "name" : "ivygithub/PHPThumb",
+      "type": "vcs",
+      "url": "https://github.com/ivygithub/PHPThumb.git"
+    },
     "require": {
         "php": ">=5.6",
         "ext-gd": "*",
