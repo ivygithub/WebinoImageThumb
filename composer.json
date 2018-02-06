@@ -20,7 +20,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "repositories" : [
         {
           "name" : "ivygithub/PHPThumb",
