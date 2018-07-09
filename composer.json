@@ -28,8 +28,8 @@
         "zendframework/zend-modulemanager": "To use it as a Zend Framework module"
     },
     "require-dev": {
-        "webino/webino-dev": "*",
-        "webino/webino-debug": "*",
+        "webino/webino-dev": "dev-develop",
+        "webino/webino-debug": "dev-develop",
         "zendframework/zend-modulemanager": "2.*",
         "zendframework/zend-version": "2.*",
         "zendframework/zend-console": "2.*",
