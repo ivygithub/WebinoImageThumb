@@ -22,7 +22,7 @@
     "require": {
         "php": ">=5.6",
         "ext-gd": "*",
-        "zendframework/zend-di": "3.*"
+        "zendframework/zend-di": "2.*"
     },
     "suggest": {
         "zendframework/zend-modulemanager": "To use it as a Zend Framework module"
